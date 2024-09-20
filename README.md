@@ -1,4 +1,4 @@
-# desafio-target
+# Desafio target
 
 ## Organização
 
