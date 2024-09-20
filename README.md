@@ -2,7 +2,7 @@
 
 ## Organização
 
-As questões do desafio estão em src/.
+As questões do desafio estão em ``src``/.
 
 ## Execução dos códigos
 
